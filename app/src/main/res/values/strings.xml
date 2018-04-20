@@ -1,0 +1,67 @@
+<resources>
+
+    <string name="search_hint">Procurar...</string>
+    <string name="app_name">ReserveDay</string>
+    <string name="app_name_com_E_comercial">Reserve &#38; Play</string>
+    <string name="app_cadastro_usuario">Registro</string>
+    <string name="botao_entrar">Entrar</string>
+    <string name="senha">Senha</string>
+    <string name="email">E-mail</string>
+    <string name="telefone">Telefone</string>
+    <string name="cadastra_se">Cadastre-se</string>
+    <string name="nome">Nome</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="erro">Ops! Algum erro aconteceu. Verifique sua conexão na internet ou entre em contato com o suporte.</string>
+
+    <!-- Cadastros -->
+    <string name="cadastro_telefone_obrigatorio">Informe o Telefone</string>
+    <string name="cadastro_senha_fraca">Senha muito fraca. Insira a senha com 6 ou mais caracteres</string>
+    <string name="cadastro_usuario_existente">Usuário já existe</string>
+    <string name="cadastro_email_invalido">E-mail inválido</string>
+    <string name="cadastro_sucesso">Cadastro realizado com sucesso</string>
+    <string name="cadastro_nome_obrigatorio">Informe o nome do usuário</string>
+    <string name="cadastro_email_obrigatorio">Informe o E-mail do usuário</string>
+    <string name="cadastro_senha_obrigatoria">Informe a senha do usuário</string>
+    <string name="codigo_verificador_obrigatorio">Informe o código verificador</string>
+    <string name="codigo_verificador">Código Verificador</string>
+    <string name="verificar">Verificar Código</string>
+    <string name="enviar_sms">Enviar SMS</string>
+
+    <!-- Login -->
+    <string name="login_email_nao_informado">Informe o E-mail</string>
+    <string name="login_senha_nao_informada">Informe a senha</string>
+    <string name="login_email_nao_cadastrado">E-mail não cadastrado.</string>
+    <string name="login_senha_incorreta">Senha incorreta</string>
+    <string name="login_email_malformado">E-mail mal formado</string>
+    <string name="login_realizado_com_sucesso">Login realizado com sucesso!</string>
+    <string name="login_cancelado">Login cancelado!</string>
+    <string name="login_sem_conexao">Sem conexão!</string>
+    <string name="login_unknown">Erro desconhecido! - Tente novamente ou entre em contato com o suporte.</string>
+    <string name="login_unknown_saida">Sem resposta conhecida! Entre em contato com o suporte.</string>
+    <string name="aguarde">Problema ao cadastrar, tentando novamente...</string>
+
+    <!-- Menu direto -->
+    <string name="item_configuracao">Configuração</string>
+    <string name="item_sair">Sair</string>
+    <string name="item_pesquisa">Pesquisa</string>
+    <string name="item_adicionar_amigo">Convidar Amigo</string>
+    <string name="item_adicionar_mesa">Adicionar Mesa</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--  Mesas -->
+    <string name="mesas">Mesas</string>
+    <string name="imagemMesa">Imagem da mesa</string>
+    <string name="nomeCriarMesa"> Nome:</string>
+
+    <!--  Criar Mesas -->
+    <string name="tituloCriarMesa">Criar Mesa</string>
+
+    <!--  Amigos -->
+    <string name="nomeTelefoneObrigatorios">Usuário Necessita de nome e telefone.</string>
+    <string name="usuarioNaoCadastrado">Usuário não cadastrado.</string>
+    <string name="dataCrarMesa">Data do Evento:</string>
+
+
+</resources>

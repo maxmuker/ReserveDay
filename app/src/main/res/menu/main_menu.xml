@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    >
+
+    <item
+        android:id="@+id/item_configuracao"
+        android:orderInCategory="1"
+        android:title="@string/item_configuracao" />
+    <item
+        android:id="@+id/item_sair"
+        android:title="@string/item_sair"
+        android:orderInCategory="10" app:showAsAction="never"
+
+        />
+    <item
+        android:id="@+id/item_pesquisa"
+        android:title="@string/item_pesquisa"
+        android:orderInCategory="20" app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_search"
+        app:actionViewClass="android.support.v7.widget.SearchView" />
+
+    <item
+        android:id="@+id/item_adicionar_amigo"
+        android:title="@string/item_adicionar_amigo"
+        android:orderInCategory="30" app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_person_add"
+        />
+
+    <item
+        android:id="@+id/item_adicionar_mesa"
+        android:title="@string/item_adicionar_mesa"
+        android:orderInCategory="30" app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_add"
+        />
+</menu>

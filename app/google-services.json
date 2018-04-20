@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "109539545425",
+    "firebase_url": "https://reserveday-be0e9.firebaseio.com",
+    "project_id": "reserveday-be0e9",
+    "storage_bucket": "reserveday-be0e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109539545425:android:17d601e45766c776",
+        "android_client_info": {
+          "package_name": "br.com.futureday.reserveandplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109539545425-gsqfih9b4hl6lrt3han7dklhhn1ljmde.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.futureday.reserveandplay",
+            "certificate_hash": "980b87e0e969b27ffd57ac43669ae7b4bfd78ab8"
+          }
+        },
+        {
+          "client_id": "109539545425-gs3obi0ui0paeq1d3ia7n6q12m5bsjau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5ocXfzJ83i_5jBb0CzzC7npbQe07XMuE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109539545425-gs3obi0ui0paeq1d3ia7n6q12m5bsjau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
